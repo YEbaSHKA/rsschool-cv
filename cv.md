@@ -11,6 +11,7 @@ ___
 I am a 3rd year student of BSUIR, I am looking for a position as an intern web developer. My sincere passion for the profession, ability to learn quickly and strong communication skills make me a valuable asset to any team.
 
 I am very interested in this area. This is a relatively new path for me, previously I had personal experience writing simple pages using the Ruby on Rails framework. Also performed LW(lab work) at the university in Java and C++
+
 ___
 ## __SKILLS__
 ### 1. __SOFT SKILLS__
@@ -26,6 +27,7 @@ ___
 * Ruby on Rails
 * Git
 * Linux
+
 ___
 ## __CODE EXAMPLE:__
 ### __+1 Array KATA from CODEWARS:__ *Given an array of integers of any length, return an array that has 1 added to the value represented by the array.*
@@ -50,8 +52,9 @@ end
 ```
 ___
 ## __EDUCATION:__
-* ###  *2024 BSUIR / Faculty of Engineering and Economics*
+* ### *2024 BSUIR / Faculty of Engineering and Economics*
 * ### *RS Schools Course "JavaScript/Front-end. Stage 1" (in progress)*
+
 ___
 ## __LANGUAGES:__
 * ***Russian - Native***

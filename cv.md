@@ -50,8 +50,8 @@ end
 ```
 ___
 ## __EDUCATION:__
-### * *2024 BSUIR / Faculty of Engineering and Economics*
-### * *RS Schools Course "JavaScript/Front-end. Stage 1" (in progress)*
+* ###  *2024 BSUIR / Faculty of Engineering and Economics*
+* ### *RS Schools Course "JavaScript/Front-end. Stage 1" (in progress)*
 ___
 ## __LANGUAGES:__
 * ***Russian - Native***

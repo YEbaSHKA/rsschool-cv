@@ -1,4 +1,5 @@
-![My photo](https://sun9-80.userapi.com/impg/NB5zX2aNZbhy_xQgGEuZLXbIEXjfsofNFtufvQ/3KH_hZ-z7MU.jpg?size=810x1080&quality=96&sign=b30fd7bcab0abb16ea1c183dac1ec704&type=album )
+<img src="https://sun9-80.userapi.com/impg/NB5zX2aNZbhy_xQgGEuZLXbIEXjfsofNFtufvQ/3KH_hZ-z7MU.jpg?size=810x1080&quality=96&sign=b30fd7bcab0abb16ea1c183dac1ec704&type=album" width="125" height="150" />
+
 # __IVAN FIHURENKA__
 
 ## __CONTACT__

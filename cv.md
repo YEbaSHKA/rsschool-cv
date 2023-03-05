@@ -19,6 +19,7 @@ ___
 * Easy-learning
 * Strong communication
 * Analytical mindset
+
 ### 2. __HARD SKILLS__
 * Java
 * MySQL

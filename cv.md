@@ -18,7 +18,7 @@ ___
 * Problem-Solving
 * Easy-learning
 * Strong communication
-* Analytical mindset
+* Analytical mindset <br>
 
 ### 2. __HARD SKILLS__
 * Java

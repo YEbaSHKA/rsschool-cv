@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(rgb(236, 232, 232), rgb(232, 223, 223));
+    display: flex;
+    justify-content: center;
+}
+
+.cv {
+    background-color: rgb(150, 150, 150);
+    width: 80vmax;
+    height: 120vmin;
+}
+
+.cv_title {
+    position: relative;
+    display: flex;/*
+    justify-content: center; */
+    width: 100%;
+    height: 30vmin;
+    background-color: rgb(144, 144, 133);
+    opacity: 0.7;
+    margin-top: 5vmin;
+    z-index: 0;
+}
+
+.cv_portret {
+    position: absolute;
+    top: 15vmin;
+    right: 11vmax;
+    width: 15vmax;
+    height: 30vmin;
+    border-radius: 20vmax;
+    z-index: 1;
+}
+
+.cv_name {
+    font-size: 14vmin;
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 3%;
+}
